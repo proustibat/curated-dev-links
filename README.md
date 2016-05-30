@@ -49,6 +49,7 @@
 - [InfoQ Javascript (in french)](https://www.infoq.com/fr/javascript/)
 - **[Theodo's blog](http://www.theodo.fr/blog/)**
 - [L'ADN](http://www.ladn.eu/)
+- **[The dot post](http://www.thedotpost.com/)**
 
 
 
