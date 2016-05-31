@@ -65,6 +65,7 @@
 
 
 ## Fun
+- [La gazette du mauvais gout](http://www.lagazettedumauvaisgout.com/)
 - [Bonjour.wtf](http://bonjour.wtf/)
 - [A juste titre](http://ajustetitre.tumblr.com/)
 - [Paye ta shnek](http://payetashnek.tumblr.com/)
